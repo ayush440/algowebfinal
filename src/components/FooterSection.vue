@@ -42,13 +42,13 @@
               <h3 class="text-[#2F5741] font-semibold mb-4">Follow Us on</h3>
               <div class="flex gap-4">
                 <a href="#" aria-label="LinkedIn" class="text-gray-500 hover:text-[#2F5741]">
-                  <img src=" ../assets/images/linkedin.svg" alt="LinkedIn" class="w-6 h-6" />
+                  <img src=" ../assets/images/Linkedin.svg" alt="LinkedIn" class="w-6 h-6" />
                 </a>
                 <a href="#" aria-label="Instagram" class="text-gray-500 hover:text-[#2F5741]">
-                  <img src="  ../assets/images/instagram.svg" alt="Instagram" class="w-6 h-6" />
+                  <img src="  ../assets/images/Instagram.svg" alt="Instagram" class="w-6 h-6" />
                 </a>
                 <a href="#" aria-label="Facebook" class="text-gray-500 hover:text-[#2F5741]">
-                  <img src=" ../assets/images/facebook.svg" alt="Facebook" class="w-6 h-6" />
+                  <img src=" ../assets/images/Facebook.svg" alt="Facebook" class="w-6 h-6" />
                 </a>
               </div>
             </div>
